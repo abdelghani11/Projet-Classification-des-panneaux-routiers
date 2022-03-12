@@ -1,1 +1,1 @@
-# Projet-systeme-de-classification-des-panneaux-routiers
+# Projet-Classification-des-panneaux-routiers
